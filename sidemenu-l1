@@ -79,7 +79,7 @@
       "url": "alarm-events",
       "icon": "",
       "createBtn": false,
-      "hasChildren": true,
+      "hasChildren": false,
       "openNewTab": false,
       "accessLevel": {
         "view": false,
@@ -118,7 +118,7 @@
       "url": "configurations/gatewayDevices/gatewaylist",
       "icon": "",
       "createBtn": false,
-      "hasChildren": true,
+      "hasChildren": false,
       "openNewTab": false,
       "accessLevel": {
         "view": false,
